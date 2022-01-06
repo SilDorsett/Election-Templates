@@ -1,0 +1,25 @@
+## Head-to-Head Ballot (For 2 or less candidates only)
+
+[b]@@POSITION@@:[/b] < @@OPTION1@@ | @@OPTION2@@ | Abstain >
+[b]Would you like to reopen nominations?[/b] < Yes | No >
+
+## Instant Runoff Ballot (For 3 or more candidates)
+
+[b]@@POSITION@@:[/b]
+1. < @@OPTION1@@ | @@OPTION2@@ | @@OPTION3@@ | ... | @@OPTIONX@@ | Abstain >
+2. < @@OPTION1@@ | @@OPTION2@@ | @@OPTION3@@ | ... | @@OPTIONX@@ >
+3. < @@OPTION1@@ | @@OPTION2@@ | @@OPTION3@@ | ... | @@OPTIONX@@ >
+...
+X. < @@OPTION1@@ | @@OPTION2@@ | @@OPTION3@@ | ... | @@OPTIONX@@ >
+[b]Would you like to reopen nominations?[/b] < Yes | No >
+
+
+# Example Instant Runoff Ballot
+[b]Delegate:[/b]
+1. < Player 1 | Player 2 | Player 3 | Player 4 | Player 5 | Player 6 | Abstain >
+2. < Player 1 | Player 2 | Player 3 | Player 4 | Player 5 | Player 6 >
+3. < Player 1 | Player 2 | Player 3 | Player 4 | Player 5 | Player 6 >
+4. < Player 1 | Player 2 | Player 3 | Player 4 | Player 5 | Player 6 >
+5. < Player 1 | Player 2 | Player 3 | Player 4 | Player 5 | Player 6 >
+6. < Player 1 | Player 2 | Player 3 | Player 4 | Player 5 | Player 6 >
+[b]Would you like to reopen nominations?[/b] < Yes | No >
