@@ -1,0 +1,33 @@
+[center][big][b]Candidacy Declarations: @@MONTH@@ @@YEAR@@ General Election[/b][/big]
+
+[img]https://the-north-pacific.github.io/Election-Templates/images/ec_seal.png[/img][/center]
+
+This General Election, The North Pacific will be electing a Delegate, Vice Delegate, and a Speaker to serve until the next election in @@NEXTSCHED@@. Any Citizen who has been a member for the last 15 days (since @@ELIGIBILITYDATE@@) is eligible to run for these offices, and eligible members may run for more than one of these offices if they so wish. Loss of Citizenship before the conclusion of this election will also result in loss of eligibility to run for any office during this election. A list of those eligible to run is provided below.
+
+To run, one must either accept a nomination or declare candidacy [u]in this thread[/u]. To withdraw from running, one must post a withdrawal of candidacy [u]in this thread[/u]. 
+
+Acceptances of nominations, declarations of candidacy, and withdrawals of candidacy posted outside this thread will be discounted. Acceptance of a nomination is understood to also constitute declaration of candidacy even if no nomination has been made. Acceptances of nominations, declarations of candidacy, and withdrawals of candidacy must be posted during the candidacy declaration period to be valid. The candidacy declaration period is from (time=@@CANDIDACIESOPEN@@) (your forum time) to (time=@@CANDIDACIESCLOSE@@) (your forum time). Voting will be approximately from (time=@@VOTINGOPEN@@) (your forum time) to (time=@@VOTINGCLOSE@@) (your forum time).
+
+This topic is intended for nominations, acceptances of nominations, declarations of candidacy, and withdrawals of candidacy; it may not be used for campaigning. Please keep in mind that lying about the election is election fraud, and that lying for any purpose is fraud.
+
+[spoiler=Eligible to run*]@@ELIGIBLE@@[/spoiler]*Loss of Citizenship before the conclusion of this election will also result in loss of eligibility to run for any office during this election.
+
+[u]Delegate[/u]
+[b]Candidates:[/b][list=1][*]-[/list]
+[b]Nominees:[/b][list=1][*]-[/list]
+[b]Declined Nomination:[/b][list=1][*]-[/list]
+[b]Invalid Nominees:[/b][list=1][*]-[/list]
+
+[u]Vice Delegate[/u]
+[b]Candidates:[/b][list=1][*]-[/list]
+[b]Nominees:[/b][list=1][*]-[/list]
+[b]Declined Nomination:[/b][list=1][*]-[/list]
+[b]Invalid Nominees:[/b][list=1][*]-[/list]
+
+[u]Speaker[/u]
+[b]Candidates:[/b][list=1][*]-[/list]
+[b]Nominees:[/b][list=1][*]-[/list]
+[b]Declined Nomination:[/b][list=1][*]-[/list]
+[b]Invalid Nominees:[/b][list=1][*]-[/list]
+
+[i]Election Supervisors: @@SUPERVISOR1@@ and @@SUPERVISOR2@@[/i]
