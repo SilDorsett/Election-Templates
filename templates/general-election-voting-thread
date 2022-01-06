@@ -1,0 +1,34 @@
+[center][big][b]Voting: @@MONTH@@ @@YEAR@@ General Election[/b][/big]
+
+[img]https://the-north-pacific.github.io/Election-Templates/images/ec_seal.png[/img][/center]
+
+Voting is now open in this General Election. Voting will be from (time=@@VOTINGOPEN@@) (your forum time) to (time=@@VOTINGEND@@) (your forum time), and ballots submitted outside that time are invalid. 
+
+Everyone who is a Citizen at the time voting opens is eligible to vote, unless disqualified by court order. Loss of Citizenship before the close of voting also results in loss of eligibility to vote.
+
+Public Voters must use the following voting form:
+
+[code]@@DELEGATEBALLOT@@
+
+@@VICEDELEGATEBALLOT@@
+
+@@SPEAKERBALLOT@@[/code]
+
+Voters may submit their ballots either publicly by a post in this thread, or through personal message to [url=https://forum.thenorthpacific.org/conversations/add?to=The%20Voting%20Booth&title=@@MONTH@@%20@@YEAR@@%20General%20Election%20Private%20Ballot]The Voting Booth[/url] with a [url=https://www.random.org/integers/?num=1&min=1&max=10000&col=1&base=10&format=html&rnd=new]random[/url] ballot ID number, using the below form. The ballot ID number will be posted together with your vote but with no reference to your identity so that you can verify that we posted your vote and any votes otherwise identical to yours, separately.
+
+[spoiler=Private voting form]
+[code][b]Ballot ID number:[/b] #
+
+@@DELEGATEBALLOT@@
+
+@@VICEDELEGATEBALLOT@@
+
+@@SPEAKERBALLOT@@[/code][/spoiler]
+
+Ballots not submitted according to these guidelines are invalid. Ambiguous votes are invalid. If you wish to abstain in an Instant Runoff race, you must only mark line #1 with Abstain and omit all other lines except "Would you like to reopen nominations?", which must still be answered. Marking a preference in lines 2 and after, except the question on reopening nominations, will cause your abstention to be ignored and your preferences to be counted.
+
+[b][color=red]Election Commissioners are required by law to announce private votes in the voting thread, including the candidate(s) the vote was cast for, promptly after those votes are cast. To allow voters to verify their vote is individually counted, the Election Commission will also be including the ballot ID number. For this reason, voters are discouraged from announcing, as was custom, that they have voted privately, as the subsequent public declaration by the Election Commissioners can potentially reveal how they voted.[/color][/b]
+
+Please do not post anything other than your ballot in this thread. If you have any questions please send them directly to [url=https://forum.thenorthpacific.org/conversations/add?to=The%20Voting%20Booth&title=Election%20Question]The Voting Booth[/url] or start a new thread. Additional and unnecessary comments will be removed.
+
+[i]Election Supervisors: @@SUPERVISOR1@@ and @@SUPERVISOR2@@[/i]
